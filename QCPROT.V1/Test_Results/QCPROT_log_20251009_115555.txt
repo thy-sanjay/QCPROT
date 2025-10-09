@@ -1,0 +1,183 @@
+2025-10-09 11:55:55 — INFO — Logger initialized.
+2025-10-09 11:55:55 — INFO — QCPROT.V1 Started
+2025-10-09 11:55:55 — INFO — Processing C1 (1/6)
+2025-10-09 11:55:55 — INFO — Parsing mzML: C1.mzML
+2025-10-09 11:57:09 — INFO — Parsed 41184 spectra (rows) from C1.mzML
+2025-10-09 11:57:09 — INFO — Computing base QC metrics for C1
+2025-10-09 11:57:09 — INFO — Base metrics computed for C1
+2025-10-09 11:57:09 — INFO — Computing label-free metrics (LFQ)
+2025-10-09 11:57:09 — INFO — Generating sample plots for C1 (LFQ)
+2025-10-09 11:57:10 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_TIC_trace.png
+2025-10-09 11:57:10 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_BPC_trace.png
+2025-10-09 11:57:11 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_ScanCount.png
+2025-10-09 11:57:11 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_MS1_vs_MS2.png
+2025-10-09 11:57:11 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_MS2_per_min.png
+2025-10-09 11:57:12 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_IntensityHist.png
+2025-10-09 11:57:12 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_DynamicRange.png
+2025-10-09 11:57:13 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_mz_density.png
+2025-10-09 11:57:13 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_ChargeDist.png
+2025-10-09 11:57:13 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_MS2_IntensityBox.png
+2025-10-09 11:57:14 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_FragmentCount.png
+2025-10-09 11:57:14 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_TIC_per_scan.png
+2025-10-09 11:57:15 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_NoiseProxy.png
+2025-10-09 11:57:15 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Plots\C1_IonFluxDrift.png
+2025-10-09 11:57:15 — INFO — ✅ Finished LFQ plots for C1
+2025-10-09 11:57:15 — INFO — Exporting sample CSV: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\CSV\C1_QCReport.csv
+2025-10-09 11:57:15 — INFO — CSV and JSON exported: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\CSV\C1_QCReport.csv, D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\CSV\C1_QCReport.json
+2025-10-09 11:57:16 — INFO — PDF saved: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C1\Reports\C1_QCReport.pdf
+2025-10-09 11:57:16 — INFO — Progress: 16%
+2025-10-09 11:57:16 — INFO — Processing C2 (2/6)
+2025-10-09 11:57:16 — INFO — Parsing mzML: C2.mzML
+2025-10-09 11:58:30 — INFO — Parsed 41593 spectra (rows) from C2.mzML
+2025-10-09 11:58:30 — INFO — Computing base QC metrics for C2
+2025-10-09 11:58:30 — INFO — Base metrics computed for C2
+2025-10-09 11:58:30 — INFO — Computing label-free metrics (LFQ)
+2025-10-09 11:58:30 — INFO — Generating sample plots for C2 (LFQ)
+2025-10-09 11:58:31 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_TIC_trace.png
+2025-10-09 11:58:31 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_BPC_trace.png
+2025-10-09 11:58:31 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_ScanCount.png
+2025-10-09 11:58:32 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_MS1_vs_MS2.png
+2025-10-09 11:58:32 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_MS2_per_min.png
+2025-10-09 11:58:32 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_IntensityHist.png
+2025-10-09 11:58:33 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_DynamicRange.png
+2025-10-09 11:58:33 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_mz_density.png
+2025-10-09 11:58:34 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_ChargeDist.png
+2025-10-09 11:58:34 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_MS2_IntensityBox.png
+2025-10-09 11:58:35 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_FragmentCount.png
+2025-10-09 11:58:35 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_TIC_per_scan.png
+2025-10-09 11:58:35 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_NoiseProxy.png
+2025-10-09 11:58:36 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Plots\C2_IonFluxDrift.png
+2025-10-09 11:58:36 — INFO — ✅ Finished LFQ plots for C2
+2025-10-09 11:58:36 — INFO — Exporting sample CSV: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\CSV\C2_QCReport.csv
+2025-10-09 11:58:36 — INFO — CSV and JSON exported: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\CSV\C2_QCReport.csv, D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\CSV\C2_QCReport.json
+2025-10-09 11:58:36 — INFO — PDF saved: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C2\Reports\C2_QCReport.pdf
+2025-10-09 11:58:36 — INFO — Progress: 33%
+2025-10-09 11:58:36 — INFO — Processing C3 (3/6)
+2025-10-09 11:58:36 — INFO — Parsing mzML: C3.mzML
+2025-10-09 11:59:51 — INFO — Parsed 41410 spectra (rows) from C3.mzML
+2025-10-09 11:59:51 — INFO — Computing base QC metrics for C3
+2025-10-09 11:59:51 — INFO — Base metrics computed for C3
+2025-10-09 11:59:51 — INFO — Computing label-free metrics (LFQ)
+2025-10-09 11:59:51 — INFO — Generating sample plots for C3 (LFQ)
+2025-10-09 11:59:51 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_TIC_trace.png
+2025-10-09 11:59:52 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_BPC_trace.png
+2025-10-09 11:59:52 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_ScanCount.png
+2025-10-09 11:59:52 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_MS1_vs_MS2.png
+2025-10-09 11:59:53 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_MS2_per_min.png
+2025-10-09 11:59:53 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_IntensityHist.png
+2025-10-09 11:59:53 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_DynamicRange.png
+2025-10-09 11:59:54 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_mz_density.png
+2025-10-09 11:59:54 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_ChargeDist.png
+2025-10-09 11:59:55 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_MS2_IntensityBox.png
+2025-10-09 11:59:56 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_FragmentCount.png
+2025-10-09 11:59:56 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_TIC_per_scan.png
+2025-10-09 11:59:56 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_NoiseProxy.png
+2025-10-09 11:59:57 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Plots\C3_IonFluxDrift.png
+2025-10-09 11:59:57 — INFO — ✅ Finished LFQ plots for C3
+2025-10-09 11:59:57 — INFO — Exporting sample CSV: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\CSV\C3_QCReport.csv
+2025-10-09 11:59:57 — INFO — CSV and JSON exported: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\CSV\C3_QCReport.csv, D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\CSV\C3_QCReport.json
+2025-10-09 11:59:57 — INFO — PDF saved: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\C3\Reports\C3_QCReport.pdf
+2025-10-09 11:59:57 — INFO — Progress: 50%
+2025-10-09 11:59:57 — INFO — Processing T1 (4/6)
+2025-10-09 11:59:57 — INFO — Parsing mzML: T1.mzML
+2025-10-09 12:01:07 — INFO — Parsed 38929 spectra (rows) from T1.mzML
+2025-10-09 12:01:07 — INFO — Computing base QC metrics for T1
+2025-10-09 12:01:07 — INFO — Base metrics computed for T1
+2025-10-09 12:01:07 — INFO — Computing label-free metrics (LFQ)
+2025-10-09 12:01:07 — INFO — Generating sample plots for T1 (LFQ)
+2025-10-09 12:01:07 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_TIC_trace.png
+2025-10-09 12:01:08 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_BPC_trace.png
+2025-10-09 12:01:08 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_ScanCount.png
+2025-10-09 12:01:08 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_MS1_vs_MS2.png
+2025-10-09 12:01:09 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_MS2_per_min.png
+2025-10-09 12:01:09 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_IntensityHist.png
+2025-10-09 12:01:09 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_DynamicRange.png
+2025-10-09 12:01:10 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_mz_density.png
+2025-10-09 12:01:10 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_ChargeDist.png
+2025-10-09 12:01:11 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_MS2_IntensityBox.png
+2025-10-09 12:01:11 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_FragmentCount.png
+2025-10-09 12:01:12 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_TIC_per_scan.png
+2025-10-09 12:01:12 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_NoiseProxy.png
+2025-10-09 12:01:13 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Plots\T1_IonFluxDrift.png
+2025-10-09 12:01:13 — INFO — ✅ Finished LFQ plots for T1
+2025-10-09 12:01:13 — INFO — Exporting sample CSV: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\CSV\T1_QCReport.csv
+2025-10-09 12:01:13 — INFO — CSV and JSON exported: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\CSV\T1_QCReport.csv, D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\CSV\T1_QCReport.json
+2025-10-09 12:01:13 — INFO — PDF saved: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T1\Reports\T1_QCReport.pdf
+2025-10-09 12:01:13 — INFO — Progress: 66%
+2025-10-09 12:01:13 — INFO — Processing T2 (5/6)
+2025-10-09 12:01:13 — INFO — Parsing mzML: T2.mzML
+2025-10-09 12:02:23 — INFO — Parsed 39111 spectra (rows) from T2.mzML
+2025-10-09 12:02:23 — INFO — Computing base QC metrics for T2
+2025-10-09 12:02:23 — INFO — Base metrics computed for T2
+2025-10-09 12:02:23 — INFO — Computing label-free metrics (LFQ)
+2025-10-09 12:02:23 — INFO — Generating sample plots for T2 (LFQ)
+2025-10-09 12:02:24 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_TIC_trace.png
+2025-10-09 12:02:24 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_BPC_trace.png
+2025-10-09 12:02:24 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_ScanCount.png
+2025-10-09 12:02:25 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_MS1_vs_MS2.png
+2025-10-09 12:02:25 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_MS2_per_min.png
+2025-10-09 12:02:25 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_IntensityHist.png
+2025-10-09 12:02:26 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_DynamicRange.png
+2025-10-09 12:02:26 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_mz_density.png
+2025-10-09 12:02:27 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_ChargeDist.png
+2025-10-09 12:02:27 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_MS2_IntensityBox.png
+2025-10-09 12:02:28 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_FragmentCount.png
+2025-10-09 12:02:28 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_TIC_per_scan.png
+2025-10-09 12:02:28 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_NoiseProxy.png
+2025-10-09 12:02:29 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Plots\T2_IonFluxDrift.png
+2025-10-09 12:02:29 — INFO — ✅ Finished LFQ plots for T2
+2025-10-09 12:02:29 — INFO — Exporting sample CSV: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\CSV\T2_QCReport.csv
+2025-10-09 12:02:29 — INFO — CSV and JSON exported: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\CSV\T2_QCReport.csv, D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\CSV\T2_QCReport.json
+2025-10-09 12:02:29 — INFO — PDF saved: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T2\Reports\T2_QCReport.pdf
+2025-10-09 12:02:29 — INFO — Progress: 83%
+2025-10-09 12:02:29 — INFO — Processing T3 (6/6)
+2025-10-09 12:02:29 — INFO — Parsing mzML: T3.mzML
+2025-10-09 12:03:44 — INFO — Parsed 39086 spectra (rows) from T3.mzML
+2025-10-09 12:03:44 — INFO — Computing base QC metrics for T3
+2025-10-09 12:03:44 — INFO — Base metrics computed for T3
+2025-10-09 12:03:44 — INFO — Computing label-free metrics (LFQ)
+2025-10-09 12:03:44 — INFO — Generating sample plots for T3 (LFQ)
+2025-10-09 12:03:44 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_TIC_trace.png
+2025-10-09 12:03:45 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_BPC_trace.png
+2025-10-09 12:03:45 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_ScanCount.png
+2025-10-09 12:03:45 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_MS1_vs_MS2.png
+2025-10-09 12:03:46 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_MS2_per_min.png
+2025-10-09 12:03:46 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_IntensityHist.png
+2025-10-09 12:03:46 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_DynamicRange.png
+2025-10-09 12:03:47 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_mz_density.png
+2025-10-09 12:03:47 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_ChargeDist.png
+2025-10-09 12:03:48 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_MS2_IntensityBox.png
+2025-10-09 12:03:48 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_FragmentCount.png
+2025-10-09 12:03:49 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_TIC_per_scan.png
+2025-10-09 12:03:49 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_NoiseProxy.png
+2025-10-09 12:03:50 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Plots\T3_IonFluxDrift.png
+2025-10-09 12:03:50 — INFO — ✅ Finished LFQ plots for T3
+2025-10-09 12:03:50 — INFO — Exporting sample CSV: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\CSV\T3_QCReport.csv
+2025-10-09 12:03:50 — INFO — CSV and JSON exported: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\CSV\T3_QCReport.csv, D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\CSV\T3_QCReport.json
+2025-10-09 12:03:50 — INFO — PDF saved: D:\Projects\Project_QCPROT\Exe\Test\Sample_Wise_Results\T3\Reports\T3_QCReport.pdf
+2025-10-09 12:03:50 — INFO — Progress: 100%
+2025-10-09 12:03:50 — INFO — Creating combined QC results…
+2025-10-09 12:03:50 — INFO — Computing overall label-free (LFQ) metrics for combined experiment
+2025-10-09 12:03:50 — INFO — Exporting combined CSV: D:\Projects\Project_QCPROT\Exe\Test\Results\CSV_Matrix\QCPROT_combined_SummaryMatrix.csv
+2025-10-09 12:03:50 — INFO — CSV and JSON exported: D:\Projects\Project_QCPROT\Exe\Test\Results\CSV_Matrix\QCPROT_combined_SummaryMatrix.csv, D:\Projects\Project_QCPROT\Exe\Test\Results\CSV_Matrix\QCPROT_combined_SummaryMatrix.json
+2025-10-09 12:03:50 — INFO — Generating 17 overall combined LFQ plots (MultiQC-style)
+2025-10-09 12:03:51 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_Overlayed_TIC.png
+2025-10-09 12:03:51 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_TIC_Correlation.png
+2025-10-09 12:03:56 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_RT_Density.png
+2025-10-09 12:03:57 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_01_BPC_Overlay.png
+2025-10-09 12:03:58 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_02_ScanCount.png
+2025-10-09 12:03:58 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_03_MS1_vs_MS2.png
+2025-10-09 12:03:59 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_04_MS2_per_min.png
+2025-10-09 12:04:00 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_05_IntensityHist_Overlay.png
+2025-10-09 12:04:01 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_06_DynamicRange.png
+2025-10-09 12:04:07 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_07_mz_density_overlay.png
+2025-10-09 12:04:08 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_08_ChargeHeatmap.png
+2025-10-09 12:04:09 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_09_MS2_Intensity_Boxplot.png
+2025-10-09 12:04:10 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_10_FragmentCount_Overlay.png
+2025-10-09 12:04:11 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_11_TIC_per_scan_normalized.png
+2025-10-09 12:04:13 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_12_NoiseProxy_Overlay.png
+2025-10-09 12:04:13 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_13_IonFluxDrift_Overlay.png
+2025-10-09 12:04:18 — INFO — Saved plot: D:\Projects\Project_QCPROT\Exe\Test\Results\Plots\Combined_QC\Combined_14_RT_Density_Overlay.png
+2025-10-09 12:04:18 — INFO — ✅ Finished generating 17 Combined LFQ QC plots (MultiQC-style).
+2025-10-09 12:04:20 — INFO — PDF saved: D:\Projects\Project_QCPROT\Exe\Test\Results\Reports\QCPROT_combined_QCReport.pdf
+2025-10-09 12:04:20 — INFO — ✅ QCPROT.V1 Completed Successfully!

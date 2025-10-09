@@ -1,0 +1,32 @@
+[
+  {
+    "Sample":"T2",
+    "Total_Scans":39111,
+    "MS1_Count":7533,
+    "MS2_Count":31578,
+    "MS1_to_MS2_Ratio":0.239,
+    "Mean_TIC":54225285.8299999982,
+    "TIC_CV(%)":348.7,
+    "Mean_BPI":10132023.5800000001,
+    "BPI_CV(%)":533.03,
+    "RT_Min(min)":0.002,
+    "RT_Max(min)":59.997,
+    "RT_Range(min)":59.995,
+    "Scan_Density":651.9,
+    "MS2_per_min_mean":526.3,
+    "Mean_Fragment_Count":264.81,
+    "Fragment_Count_CV(%)":197.46,
+    "m\/z_Min":100.0020904541,
+    "m\/z_Max":5996.9204101562,
+    "Noise_Proxy_10pctile":3436.1162109375,
+    "Signal_Drift(%)":69.094,
+    "Median_RT_Interval(min)":0.0012,
+    "Scan_Rate(scans_per_min)":861.33,
+    "MS2_Density_per_min":526.34,
+    "Charge_Distribution_2.0":19048,
+    "Charge_Distribution_3.0":8411,
+    "Charge_Distribution_4.0":2708,
+    "Charge_Distribution_5.0":994,
+    "Charge_Distribution_6.0":417
+  }
+]
