@@ -1,4 +1,4 @@
-<img width="250" height="250" alt="QCPROT LOGO" src="https://github.com/user-attachments/assets/bb5f3e51-a150-4168-bbe6-a2d3ad323521" />
+<img width="192" height="192" alt="icon" src="https://github.com/user-attachments/assets/61b5ec96-b47f-4ea3-9e74-53a57027a3c1" />
 
 # QCPROT: Quality Check for Proteomics Data
 
@@ -10,7 +10,7 @@ It performs comprehensive data evaluation through statistical summaries, visuali
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Automated QC Report Generation:** End-to-end PDF report summarizing all quality metrics and visualizations.  
 - **Raw Data Quality Assessment:** Extracts and analyzes mzML-derived metrics to ensure instrument and acquisition reliability.  
@@ -20,7 +20,7 @@ It performs comprehensive data evaluation through statistical summaries, visuali
 
 ---
 
-## 🧩 Core Functionalities
+## Core Functionalities
 
 | Category | Function | Description |
 |-----------|-----------|-------------|
@@ -52,14 +52,14 @@ By integrating QCPROT early in the data processing pipeline, researchers can ens
 
 ---
 
-## 🪪 License
+## License
 
 Released under the **MIT License**.  
 You are free to use, modify, and distribute this software with proper attribution.
 
 ---
 
-## 💡 Citation / Acknowledgment
+## Citation / Acknowledgment
 
 If you use **QCPROT** in your work, please cite or acknowledge:  
 > *Sanjay S. (2025). QCPROT: Quality Check for Proteomics Data. GitHub Repository.*
