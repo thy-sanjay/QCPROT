@@ -1,0 +1,23 @@
+QCPROT.V1 – Quality Control for Label Free Quantitative Proteomics
+
+Version: QCPROT.V1
+Type: Stable Release
+Platform:
+A. CLI Edition: Linux (Terminal based)
+B. GUI Edition: Windows (Desktop Application)
+Release Date: 9th, October 2025.
+
+Key Highlights:
+1. Dual-Mode Operation:
+  - GUI Version (Windows): User friendly interface for interactive analysis and visualization.  
+  - CLI Version (Linux): Efficient command line workflow for automated data processing.  
+2. Data Compatibility:  
+  Designed specifically for RAW data derived maML files.
+3. Automated Visualization:  
+  Generates essential QC plots for each sample and dataset overview.  
+4. Comprehensive Reporting:  
+  Automatically compiles results and visualizations into a publication ready PDF report.  
+5. Structured Output:  
+  Organizes plots, reports, and summaries under user defined project directories.  
+6. Offline & Lightweight:  
+  Requires no external servers or internet connectivity for operation. 
